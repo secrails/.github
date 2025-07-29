@@ -1,1 +1,1 @@
-[![Secrails](https://github.com/secrails/.github/assets/banner)](https://secrails.com)
+[![Secrails](assets/banner.png)](https://secrails.com)
